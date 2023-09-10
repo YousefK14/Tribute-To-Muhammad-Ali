@@ -1,14 +1,19 @@
-# Tribute to Muhammad Ali
+# Muhammad Ali Tribute Form
 
-A tribute webpage to celebrate the life and legacy of Muhammad Ali.
+This web-based tribute form is dedicated to celebrating the incredible life and legacy of Muhammad Ali.
 
-## Usage
-- Clone or download this repository.
-- Open `index.html` in a web browser.
+## Features
+- Explore Muhammad Ali's remarkable journey.
+- Learn about his impact on sports and society.
+- Discover memorable quotes and achievements.
+- Share your thoughts and tributes.
+
+## Purpose
+This tribute form serves as a platform to commemorate and reflect on Muhammad Ali's inspirational contributions.
 
 ## Contributing
 1. Fork this repository.
-2. Make improvements.
+2. Make enhancements.
 3. Submit a pull request.
 
 <div style="float: left; margin-right: 10px;">
@@ -17,4 +22,6 @@ A tribute webpage to celebrate the life and legacy of Muhammad Ali.
 
 ## License
 This project is licensed under the MIT License.
+
+**This project is part of the FreeCodeCamp curriculum.**
 
