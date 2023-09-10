@@ -14,4 +14,4 @@ A tribute webpage to celebrate the life and legacy of Muhammad Ali.
 
 ## License
 This project is licensed under the MIT License.
-![Preview](https://imgur.com/a/iRN5Z6h)
+![Preview](https://imgur.com/a/iRN5Z6h.gif)
