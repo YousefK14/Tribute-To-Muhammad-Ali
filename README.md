@@ -5,6 +5,7 @@ A tribute webpage to celebrate the life and legacy of Muhammad Ali.
 <div style="float: left; margin-right: 10px;">
   <img src="https://i.imgur.com/zU0SJxb.png" alt="Preview" width="300">
 </div>
+
 ## Usage
 - Clone or download this repository.
 - Open `index.html` in a web browser.
