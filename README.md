@@ -17,5 +17,6 @@ This tribute form serves as a platform to commemorate and reflect on Muhammad Al
 
 ## License
 This project is licensed under the MIT License.
+
 **This project is part of the FreeCodeCamp curriculum.**
 
