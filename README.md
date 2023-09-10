@@ -1,7 +1,7 @@
 # Tribute to Muhammad Ali
 
 A tribute webpage to celebrate the life and legacy of Muhammad Ali.
-![Preview](https://imgur.com/a/7GBWqDJ)
+![Preview](https://i.imgur.com/zU0SJxb.png)
 ## Usage
 - Clone or download this repository.
 - Open `index.html` in a web browser.
