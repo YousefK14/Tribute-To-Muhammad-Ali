@@ -12,4 +12,7 @@ A tribute webpage to celebrate the life and legacy of Muhammad Ali.
 ## License
 This project is licensed under the MIT License.
 
-![Preview](https://i.imgur.com/zU0SJxb.png)
+<div style="float: left; margin-right: 10px;">
+  <img src="https://i.imgur.com/zU0SJxb.png" alt="Preview" width="300">
+</div>
+
