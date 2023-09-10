@@ -1,0 +1,44 @@
+body{
+  width: 100%;
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  color: white;
+  margin: 15px;
+}
+h2 {
+  text-align: center;
+}
+li {
+  font-size: 18.5px;
+  width: 95%;
+  margin-top: 5px;
+}
+p, h1, h2, h3, li {
+  color: white
+}
+a {
+  color: white;
+}
+a:hover {
+  color: grey;
+}
+figure > figcaption > p {
+  color: white;
+  text-align: right;
+  margin-top: 9px;
+  margin-right: 12px;
+  font-size: 12px;
+}
+.main-pic {
+  width: 80%;
+  margin: auto;
+  border-radius: 15px;
+  box-shadow: 10px 10px 10px 5px rgba(236, 236, 236, 0.15);
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
