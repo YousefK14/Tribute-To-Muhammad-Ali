@@ -11,11 +11,6 @@ This web-based tribute form is dedicated to celebrating the incredible life and 
 ## Purpose
 This tribute form serves as a platform to commemorate and reflect on Muhammad Ali's inspirational contributions.
 
-## Contributing
-1. Fork this repository.
-2. Make enhancements.
-3. Submit a pull request.
-
 <div style="float: left; margin-right: 10px;">
   <img src="https://i.imgur.com/zU0SJxb.png" alt="Preview" width="300">
 </div>
