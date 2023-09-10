@@ -1,6 +1,10 @@
 # Tribute to Muhammad Ali
 
 A tribute webpage to celebrate the life and legacy of Muhammad Ali.
+
+<div style="float: left; margin-right: 10px;">
+  <img src="https://i.imgur.com/zU0SJxb.png" alt="Preview" width="300">
+</div>
 ## Usage
 - Clone or download this repository.
 - Open `index.html` in a web browser.
@@ -11,8 +15,4 @@ A tribute webpage to celebrate the life and legacy of Muhammad Ali.
 3. Submit a pull request.
 ## License
 This project is licensed under the MIT License.
-
-<div style="float: left; margin-right: 10px;">
-  <img src="https://i.imgur.com/zU0SJxb.png" alt="Preview" width="300">
-</div>
 
