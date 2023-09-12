@@ -12,7 +12,7 @@ This web-based tribute form is dedicated to celebrating the incredible life and 
 This tribute form serves as a platform to commemorate and reflect on Muhammad Ali's inspirational contributions.
 
 <div style="float: left; margin-right: 10px;">
-  <img src="blob:https://imgur.com/1036f95c-1173-4886-9b92-33d755d3488c" alt="Preview" width="300">
+  <img src="https://i.imgur.com/L3ORMHj.png" alt="Preview" width="300">
 </div>
 
 ## License
