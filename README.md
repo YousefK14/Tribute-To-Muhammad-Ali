@@ -1,5 +1,9 @@
 # Muhammad Ali Tribute Form
 
+<div style="float: left; margin-right: 10px;">
+  <img src="https://i.imgur.com/L3ORMHj.png" alt="Preview" width="300">
+</div>
+
 This web-based tribute form is dedicated to celebrating the incredible life and legacy of Muhammad Ali.
 
 ## Features
@@ -10,10 +14,6 @@ This web-based tribute form is dedicated to celebrating the incredible life and 
 
 ## Purpose
 This tribute form serves as a platform to commemorate and reflect on Muhammad Ali's inspirational contributions.
-
-<div style="float: left; margin-right: 10px;">
-  <img src="https://i.imgur.com/L3ORMHj.png" alt="Preview" width="300">
-</div>
 
 ## License
 This project is licensed under the MIT License.
